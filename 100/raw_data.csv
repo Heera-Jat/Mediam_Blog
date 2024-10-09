@@ -1,0 +1,1001 @@
+Name,Age,Salary,Department,Location
+Charlie,56,not available,Engineering,San Francisco
+Hannah,46,60000,HR,New York
+Jack,32,nan,HR,Chicago
+Bob,60,50000,HR,San Francisco
+Ian,25,not available,Finance,Austin
+Charlie,38,50000,HR,San Francisco
+Eva,56,50000,Sales,San Francisco
+Jack,36,50000,Marketing,Chicago
+Hannah,40,45000,Finance,Chicago
+Bob,28,45000,Engineering,Boston
+Frank,28,50000,Engineering,Austin
+Eva,41,not available,Marketing,Chicago
+Jack,53,nan,Finance,New York
+Ian,57,nan,HR,Austin
+Eva,41,60000,HR,Austin
+Bob,20,not available,Sales,Chicago
+Eva,39,45000,Sales,Austin
+David,19,50000,HR,Chicago
+Grace,41,60000,Engineering,San Francisco
+Frank,61,nan,Engineering,Boston
+Bob,47,45000,Sales,San Francisco
+Eva,55,45000,Marketing,Chicago
+Grace,19,50000,HR,Chicago
+Grace,38,nan,Sales,San Francisco
+Eva,50,not available,Sales,New York
+Ian,29,45000,HR,New York
+David,39,50000,HR,New York
+Charlie,61,not available,Engineering,Chicago
+David,42,nan,Marketing,Austin
+Eva,44,45000,Marketing,Chicago
+Frank,59,not available,HR,Austin
+Charlie,45,not available,Finance,San Francisco
+Bob,33,not available,Sales,Boston
+David,32,45000,Sales,Austin
+Eva,64,45000,HR,New York
+David,61,60000,Finance,Chicago
+Charlie,20,nan,Engineering,San Francisco
+Hannah,54,50000,HR,New York
+Jack,24,not available,HR,San Francisco
+David,38,60000,Sales,Boston
+Bob,26,50000,HR,Chicago
+Bob,56,60000,HR,Chicago
+Alice,35,45000,HR,Boston
+David,21,not available,Sales,Chicago
+Jack,42,50000,Engineering,Austin
+Ian,31,50000,Engineering,San Francisco
+Grace,26,50000,HR,New York
+Jack,43,50000,Sales,Boston
+Grace,19,50000,Engineering,Austin
+Grace,37,60000,Engineering,New York
+Hannah,45,not available,Engineering,New York
+Alice,64,45000,Sales,Boston
+Jack,24,45000,Sales,Austin
+Jack,61,45000,HR,New York
+Hannah,25,45000,Marketing,New York
+David,64,60000,Engineering,Austin
+David,52,nan,Marketing,Chicago
+David,31,not available,Sales,New York
+Frank,34,50000,Sales,San Francisco
+Grace,53,nan,Sales,Austin
+Frank,57,45000,Marketing,New York
+Alice,21,nan,Sales,Boston
+Hannah,19,not available,HR,San Francisco
+Jack,23,50000,Sales,New York
+Grace,59,50000,Finance,San Francisco
+Frank,21,not available,Marketing,San Francisco
+Frank,46,not available,Finance,Chicago
+Eva,35,45000,Sales,San Francisco
+Frank,43,50000,HR,Chicago
+Ian,61,nan,Engineering,Austin
+Jack,51,60000,Sales,Chicago
+Ian,27,60000,HR,Boston
+Jack,53,not available,Marketing,New York
+Hannah,31,45000,Finance,Austin
+Jack,48,60000,Finance,Austin
+Ian,32,50000,Finance,Boston
+Jack,25,not available,Marketing,Chicago
+Hannah,31,nan,HR,New York
+Hannah,40,not available,Marketing,Chicago
+Alice,57,nan,Finance,San Francisco
+Jack,38,not available,Sales,Chicago
+Eva,33,not available,Engineering,Austin
+David,62,not available,Marketing,New York
+Bob,35,nan,Marketing,Chicago
+Hannah,64,nan,HR,New York
+Charlie,41,not available,HR,New York
+David,43,60000,Marketing,San Francisco
+Grace,42,45000,Finance,San Francisco
+Jack,62,45000,Engineering,Austin
+Ian,58,45000,HR,Boston
+Bob,46,nan,Finance,New York
+Charlie,32,nan,Sales,Boston
+David,62,60000,HR,Austin
+Jack,18,45000,Finance,New York
+Alice,42,45000,Finance,New York
+Grace,24,not available,Engineering,Boston
+Bob,26,nan,Engineering,Chicago
+Eva,41,45000,Sales,San Francisco
+Alice,18,60000,Finance,Chicago
+Charlie,61,60000,Finance,Boston
+Bob,25,45000,Engineering,San Francisco
+Alice,41,nan,HR,Chicago
+Grace,28,60000,HR,San Francisco
+Eva,34,not available,Marketing,New York
+Alice,25,60000,Engineering,Chicago
+Frank,52,50000,Marketing,San Francisco
+Eva,52,50000,Engineering,San Francisco
+Charlie,50,nan,Sales,San Francisco
+Grace,22,45000,Finance,Chicago
+Jack,59,nan,Sales,Austin
+Ian,56,nan,Engineering,Chicago
+Ian,58,nan,Finance,Boston
+Ian,45,nan,HR,Chicago
+Bob,24,not available,HR,San Francisco
+Charlie,26,not available,Marketing,New York
+Grace,25,60000,Engineering,Chicago
+Eva,29,50000,Engineering,Chicago
+Bob,51,nan,HR,San Francisco
+Charlie,50,60000,Sales,New York
+Jack,40,50000,Finance,New York
+Frank,41,45000,Sales,Boston
+Grace,54,not available,Sales,Chicago
+Ian,52,50000,HR,New York
+Alice,61,45000,HR,New York
+Grace,57,50000,HR,Austin
+Hannah,39,not available,Marketing,Austin
+Charlie,44,not available,Sales,New York
+David,52,60000,Engineering,Boston
+Jack,18,nan,Finance,New York
+Frank,52,50000,Marketing,San Francisco
+Jack,54,50000,Engineering,Chicago
+Grace,64,45000,Sales,Boston
+David,31,not available,HR,San Francisco
+Hannah,20,50000,Sales,Boston
+Eva,18,not available,Finance,San Francisco
+Alice,22,50000,Marketing,Chicago
+David,43,60000,Marketing,Chicago
+Charlie,31,nan,Finance,Austin
+Ian,56,50000,Engineering,San Francisco
+Hannah,44,not available,Engineering,Austin
+Alice,26,60000,Marketing,San Francisco
+Frank,32,50000,Marketing,Austin
+Ian,32,45000,HR,Chicago
+Grace,43,nan,Engineering,Boston
+David,59,50000,Finance,Austin
+Alice,30,60000,Engineering,San Francisco
+Bob,49,45000,HR,San Francisco
+Eva,56,60000,Marketing,Chicago
+Eva,49,60000,Marketing,San Francisco
+Hannah,21,45000,HR,New York
+Frank,47,60000,Finance,Boston
+Hannah,54,45000,Marketing,Austin
+Bob,40,50000,Sales,Boston
+Charlie,56,45000,Marketing,Chicago
+Frank,62,45000,Sales,Austin
+Jack,32,nan,HR,Austin
+Charlie,60,45000,HR,New York
+Frank,46,45000,Marketing,Chicago
+Frank,53,50000,Engineering,San Francisco
+Bob,30,nan,Sales,New York
+Grace,49,not available,Finance,New York
+Bob,24,50000,Marketing,Boston
+Frank,39,50000,Finance,Boston
+Alice,45,not available,Marketing,Boston
+Charlie,19,45000,Engineering,New York
+Bob,59,60000,Engineering,San Francisco
+Grace,62,nan,Engineering,Austin
+David,23,60000,Engineering,Boston
+Hannah,45,not available,HR,San Francisco
+Frank,45,50000,HR,Chicago
+Jack,61,50000,Sales,Boston
+David,61,nan,Finance,Austin
+Eva,37,50000,Marketing,Chicago
+Ian,47,50000,Marketing,Chicago
+Grace,28,nan,HR,Austin
+Jack,45,nan,Marketing,Boston
+Ian,42,not available,HR,New York
+Grace,56,50000,Sales,Austin
+Alice,50,50000,Finance,Austin
+Hannah,18,not available,Sales,Austin
+David,44,45000,Engineering,Chicago
+Charlie,30,45000,Engineering,San Francisco
+Grace,58,45000,Engineering,New York
+Charlie,20,not available,Sales,Boston
+Hannah,56,50000,Marketing,Boston
+Frank,23,not available,Finance,San Francisco
+Eva,25,not available,Engineering,Austin
+David,44,45000,Engineering,New York
+Hannah,26,60000,Engineering,Boston
+Hannah,54,50000,Finance,Boston
+Alice,50,45000,Engineering,Austin
+Ian,59,60000,Finance,San Francisco
+Eva,61,60000,Engineering,New York
+David,41,nan,Sales,San Francisco
+Frank,32,50000,Sales,San Francisco
+Frank,49,60000,Finance,New York
+Bob,49,45000,Sales,New York
+Hannah,41,nan,Finance,Boston
+Grace,58,50000,Sales,Boston
+Alice,29,not available,Sales,New York
+Eva,56,45000,Finance,Chicago
+Frank,19,60000,Marketing,Boston
+David,20,60000,Sales,Chicago
+Bob,54,45000,Engineering,New York
+David,34,60000,Marketing,Boston
+Alice,19,nan,Finance,San Francisco
+Grace,19,50000,Marketing,New York
+Bob,45,nan,HR,Austin
+Bob,40,60000,HR,Chicago
+Ian,54,not available,Sales,New York
+Eva,49,50000,Sales,New York
+Bob,50,50000,Engineering,Boston
+Ian,18,45000,Marketing,Boston
+Ian,36,45000,HR,Boston
+Alice,19,not available,Sales,Austin
+Charlie,61,50000,Marketing,Boston
+David,43,not available,Sales,New York
+Grace,49,45000,Sales,Boston
+Jack,23,45000,HR,San Francisco
+David,49,50000,HR,Boston
+Bob,21,nan,Sales,Austin
+Grace,28,60000,Finance,San Francisco
+Frank,34,45000,Sales,New York
+Charlie,55,45000,Sales,New York
+Frank,41,nan,Engineering,Chicago
+Frank,22,nan,Engineering,San Francisco
+Eva,51,not available,Engineering,Chicago
+David,23,not available,Finance,San Francisco
+Jack,39,60000,Finance,San Francisco
+Alice,28,60000,Sales,Austin
+Jack,33,50000,Engineering,Chicago
+Frank,50,not available,Finance,Austin
+Bob,26,45000,HR,San Francisco
+Charlie,23,not available,Sales,New York
+Hannah,33,45000,Marketing,San Francisco
+Jack,46,nan,Sales,Austin
+Frank,20,not available,Marketing,Chicago
+Charlie,37,nan,Engineering,Chicago
+Grace,53,60000,Marketing,Austin
+David,36,60000,Engineering,Chicago
+Ian,43,50000,HR,Boston
+Eva,20,not available,Marketing,New York
+Charlie,36,nan,Sales,New York
+Bob,37,45000,Engineering,New York
+Bob,49,60000,Sales,Chicago
+Charlie,24,60000,Finance,Chicago
+Bob,58,45000,Engineering,San Francisco
+David,50,nan,Marketing,San Francisco
+Bob,57,nan,Engineering,New York
+Jack,56,not available,Sales,Boston
+Ian,35,not available,HR,San Francisco
+Bob,57,50000,Engineering,San Francisco
+Ian,18,60000,Marketing,Chicago
+Frank,28,not available,Finance,Boston
+Alice,45,nan,HR,New York
+David,42,45000,Finance,San Francisco
+Alice,40,nan,Engineering,Boston
+Frank,48,60000,Sales,Boston
+David,47,nan,Sales,New York
+Charlie,59,50000,Marketing,Boston
+Charlie,52,60000,Sales,Boston
+Ian,24,45000,HR,Boston
+Frank,33,50000,Sales,San Francisco
+Ian,43,60000,Marketing,New York
+Eva,19,45000,Engineering,Boston
+Bob,18,50000,Engineering,Boston
+Hannah,29,50000,Sales,San Francisco
+Eva,22,60000,Finance,New York
+Bob,54,not available,Engineering,Chicago
+David,49,50000,Sales,San Francisco
+Ian,26,50000,Marketing,New York
+David,58,45000,Sales,Boston
+David,52,nan,Engineering,New York
+Bob,36,60000,Marketing,New York
+Frank,33,60000,Sales,New York
+Bob,20,not available,HR,Chicago
+Grace,37,not available,Marketing,New York
+Charlie,41,60000,HR,Chicago
+Charlie,50,not available,Finance,Boston
+Eva,41,45000,Marketing,Chicago
+Charlie,28,60000,HR,Boston
+Bob,25,not available,Engineering,Boston
+Jack,53,60000,Engineering,Chicago
+Ian,55,nan,Finance,San Francisco
+Bob,57,50000,Marketing,Austin
+Bob,37,60000,Marketing,New York
+Hannah,52,50000,Marketing,Austin
+Ian,42,not available,Finance,New York
+Grace,52,50000,Marketing,New York
+Charlie,42,60000,Engineering,Boston
+Ian,46,nan,HR,New York
+Charlie,35,not available,Engineering,New York
+Eva,63,60000,Engineering,Chicago
+Ian,35,not available,HR,Austin
+Charlie,19,45000,Engineering,Chicago
+Grace,52,50000,Finance,New York
+Alice,33,45000,HR,Boston
+David,58,60000,Engineering,Chicago
+David,53,nan,Sales,Chicago
+Grace,50,not available,Engineering,San Francisco
+Hannah,21,50000,Finance,New York
+Alice,50,not available,Marketing,Boston
+Eva,31,60000,Engineering,Chicago
+Grace,38,not available,Marketing,Chicago
+David,37,50000,Sales,Boston
+David,25,60000,Engineering,New York
+David,24,not available,HR,San Francisco
+Frank,20,nan,Marketing,Chicago
+Grace,34,60000,Sales,San Francisco
+Bob,50,60000,HR,Austin
+Eva,29,nan,HR,New York
+David,39,45000,HR,Austin
+Charlie,39,50000,HR,Austin
+Grace,63,45000,Engineering,Austin
+Frank,47,not available,Engineering,New York
+Grace,55,nan,Engineering,New York
+Eva,55,45000,Sales,Boston
+Frank,62,60000,Sales,San Francisco
+Eva,25,not available,Sales,San Francisco
+Grace,44,not available,Finance,Boston
+Bob,44,45000,Sales,Boston
+Eva,51,45000,Engineering,Austin
+Frank,38,nan,Engineering,Boston
+Frank,47,50000,Finance,Chicago
+Eva,50,45000,Finance,San Francisco
+Jack,45,45000,Sales,Boston
+Grace,64,60000,Marketing,Chicago
+Jack,50,not available,Finance,Chicago
+Hannah,22,50000,HR,Chicago
+Grace,36,60000,Engineering,Chicago
+Eva,21,nan,HR,Austin
+Alice,52,nan,Engineering,Chicago
+Eva,34,45000,Engineering,Austin
+Jack,61,45000,Finance,Austin
+Bob,45,nan,Finance,Chicago
+Eva,47,45000,HR,San Francisco
+Eva,46,50000,Engineering,Chicago
+Bob,63,45000,HR,Chicago
+Eva,23,not available,Marketing,Chicago
+David,52,45000,HR,San Francisco
+Alice,58,60000,Sales,New York
+Charlie,54,50000,HR,New York
+Alice,41,60000,Sales,Austin
+Eva,46,60000,Sales,Austin
+David,63,not available,Sales,San Francisco
+Grace,48,50000,Marketing,Boston
+Eva,52,50000,HR,New York
+Jack,50,50000,HR,Austin
+David,38,50000,Marketing,New York
+Bob,49,50000,Engineering,San Francisco
+David,40,not available,Finance,San Francisco
+Bob,50,45000,HR,Boston
+Hannah,20,60000,Finance,Boston
+Charlie,35,50000,Marketing,San Francisco
+Ian,42,45000,Engineering,Austin
+David,59,45000,Engineering,New York
+Frank,48,60000,Engineering,Chicago
+Jack,20,not available,Marketing,Boston
+Eva,57,nan,Sales,Chicago
+Jack,63,nan,Sales,Austin
+Alice,41,45000,Finance,Boston
+Ian,49,60000,Sales,Chicago
+Alice,64,nan,Sales,Austin
+Hannah,39,45000,Engineering,New York
+Ian,40,not available,Engineering,Austin
+Ian,19,nan,Finance,Boston
+Alice,44,45000,HR,San Francisco
+Bob,59,45000,Finance,New York
+Alice,19,50000,Finance,Chicago
+Jack,43,not available,Marketing,Boston
+Bob,34,50000,Marketing,San Francisco
+Jack,57,60000,Finance,Austin
+Hannah,50,50000,Finance,San Francisco
+Eva,26,50000,Finance,Boston
+Grace,60,nan,Sales,Boston
+Bob,56,45000,Marketing,San Francisco
+Hannah,46,not available,Finance,Austin
+Frank,59,50000,Engineering,San Francisco
+Hannah,43,not available,Engineering,Boston
+Alice,52,50000,Sales,Boston
+Alice,42,60000,Sales,Chicago
+Grace,41,50000,HR,Chicago
+Hannah,30,nan,HR,New York
+Charlie,24,45000,HR,Boston
+Eva,53,60000,Sales,Chicago
+Alice,62,50000,Sales,San Francisco
+Grace,37,not available,Sales,Austin
+Eva,18,60000,Engineering,San Francisco
+Hannah,25,60000,Sales,Austin
+Hannah,63,50000,Engineering,Chicago
+Ian,33,60000,HR,New York
+Grace,31,not available,HR,San Francisco
+Alice,29,60000,HR,San Francisco
+Charlie,40,not available,Finance,San Francisco
+Hannah,32,50000,Finance,Austin
+Charlie,45,45000,Marketing,Chicago
+Hannah,51,60000,Marketing,San Francisco
+Alice,19,45000,Marketing,San Francisco
+Eva,49,not available,Finance,New York
+David,40,60000,Finance,New York
+Eva,39,nan,Marketing,Chicago
+Hannah,42,45000,Marketing,Chicago
+Jack,39,60000,Sales,Boston
+David,39,45000,Marketing,New York
+David,59,60000,Sales,Boston
+Charlie,23,50000,Engineering,Austin
+Grace,32,45000,Finance,Boston
+Charlie,60,nan,Marketing,San Francisco
+Charlie,54,nan,Finance,Boston
+Jack,50,not available,Finance,Chicago
+Eva,25,60000,Finance,Austin
+Eva,61,45000,Engineering,San Francisco
+Frank,61,not available,HR,Boston
+Hannah,22,45000,Marketing,Austin
+Jack,56,60000,HR,Austin
+Frank,21,nan,HR,San Francisco
+Alice,23,50000,HR,Boston
+Hannah,62,nan,Finance,Austin
+Hannah,49,not available,Sales,Austin
+Ian,47,50000,Finance,New York
+Ian,64,not available,Finance,Austin
+Bob,52,60000,HR,New York
+Bob,57,50000,Finance,Boston
+Charlie,33,not available,HR,Boston
+Alice,30,60000,Sales,Boston
+David,59,nan,Marketing,Chicago
+David,47,60000,HR,Boston
+Ian,36,45000,Sales,Austin
+Ian,34,60000,Marketing,San Francisco
+Ian,36,60000,Engineering,New York
+Jack,45,45000,HR,Chicago
+Grace,43,not available,HR,Boston
+Bob,54,not available,Engineering,Boston
+Jack,43,60000,Engineering,San Francisco
+Eva,40,45000,HR,San Francisco
+David,26,45000,Engineering,Chicago
+Hannah,29,nan,Finance,New York
+Bob,18,not available,Marketing,Boston
+Frank,18,50000,Marketing,Chicago
+Eva,64,not available,Marketing,Austin
+Bob,51,not available,Finance,Austin
+Jack,49,nan,Engineering,Chicago
+Alice,42,50000,Sales,Boston
+Hannah,57,nan,Engineering,Chicago
+Bob,62,50000,HR,Boston
+Grace,18,60000,Marketing,San Francisco
+Ian,33,50000,Engineering,Chicago
+Ian,56,nan,Sales,Boston
+Hannah,22,not available,HR,Chicago
+Jack,39,50000,Finance,Chicago
+Ian,46,50000,Finance,Boston
+Bob,20,45000,Sales,Boston
+Frank,29,not available,HR,New York
+David,43,60000,Marketing,Chicago
+David,33,nan,Engineering,Austin
+Eva,54,60000,HR,Chicago
+Charlie,39,not available,Finance,Chicago
+Alice,46,50000,Sales,Boston
+Hannah,31,50000,Sales,Chicago
+Eva,45,not available,Engineering,Chicago
+Charlie,22,50000,Sales,Austin
+Jack,64,50000,Sales,Boston
+Grace,47,50000,HR,Chicago
+Grace,63,nan,Marketing,San Francisco
+Alice,22,nan,Engineering,New York
+Ian,29,45000,HR,Austin
+Bob,33,60000,Marketing,Chicago
+Eva,43,not available,HR,San Francisco
+Eva,43,not available,HR,Chicago
+Hannah,38,not available,Sales,Chicago
+Hannah,56,45000,Marketing,Boston
+Grace,53,nan,Engineering,Boston
+Grace,50,45000,Engineering,Boston
+Frank,47,not available,Marketing,San Francisco
+Frank,54,60000,Sales,Chicago
+Ian,40,50000,Finance,New York
+Frank,27,nan,HR,Austin
+Bob,22,nan,Sales,Boston
+Bob,53,45000,Marketing,Boston
+Eva,51,nan,HR,Chicago
+David,48,not available,Engineering,Chicago
+Bob,27,not available,Finance,San Francisco
+Charlie,36,45000,Engineering,San Francisco
+Grace,49,not available,Marketing,Boston
+Hannah,18,60000,HR,Chicago
+Frank,22,45000,Marketing,New York
+Eva,62,60000,HR,Austin
+Alice,21,50000,Sales,Chicago
+Hannah,33,60000,Finance,Chicago
+Charlie,41,50000,Sales,San Francisco
+Frank,33,50000,Sales,Austin
+Charlie,19,60000,Marketing,Boston
+Grace,45,45000,Finance,Chicago
+Grace,49,not available,HR,Boston
+Ian,44,not available,HR,Chicago
+Eva,37,50000,Engineering,Boston
+Hannah,41,50000,HR,Austin
+Jack,29,45000,Marketing,San Francisco
+Jack,52,nan,Sales,Austin
+Hannah,50,60000,Sales,New York
+Alice,50,50000,Sales,San Francisco
+Eva,60,not available,Finance,Austin
+Charlie,54,45000,HR,New York
+Alice,29,60000,Marketing,Chicago
+David,20,45000,Finance,Chicago
+Hannah,18,60000,Engineering,Boston
+Charlie,50,60000,Marketing,San Francisco
+Jack,57,50000,Marketing,Chicago
+Bob,27,45000,Marketing,San Francisco
+Ian,60,45000,Sales,Chicago
+Jack,61,not available,Marketing,Boston
+Eva,46,not available,HR,Austin
+Grace,30,50000,Marketing,Boston
+Bob,29,50000,Sales,New York
+Ian,48,nan,Marketing,Chicago
+Ian,63,not available,Engineering,New York
+David,19,60000,Engineering,New York
+David,52,45000,Sales,San Francisco
+Frank,40,50000,HR,Chicago
+Jack,34,45000,HR,New York
+Jack,43,45000,Finance,Austin
+Jack,25,nan,Sales,New York
+Frank,46,not available,Marketing,Austin
+Alice,43,50000,Sales,San Francisco
+Ian,27,45000,Finance,New York
+Bob,43,50000,Sales,Boston
+Eva,51,60000,Sales,San Francisco
+Ian,58,nan,Finance,Austin
+David,24,60000,HR,San Francisco
+Charlie,21,50000,Marketing,New York
+Grace,62,50000,Finance,Chicago
+Frank,28,not available,Engineering,Chicago
+Hannah,46,45000,HR,Austin
+Charlie,53,45000,Engineering,Austin
+Eva,42,60000,HR,Chicago
+Jack,38,nan,Marketing,Austin
+David,53,45000,Marketing,San Francisco
+David,27,not available,Sales,Boston
+David,54,60000,Engineering,Boston
+Jack,26,60000,HR,San Francisco
+Hannah,41,not available,Marketing,Boston
+Frank,52,nan,Finance,New York
+Charlie,52,not available,Marketing,San Francisco
+Jack,53,nan,Finance,Austin
+Eva,35,not available,HR,San Francisco
+Frank,56,not available,Marketing,Chicago
+Eva,49,50000,Marketing,Austin
+Frank,41,60000,HR,Chicago
+Hannah,40,not available,Marketing,Austin
+Grace,49,not available,Finance,Boston
+Eva,54,45000,Marketing,San Francisco
+Jack,29,60000,Engineering,New York
+Frank,30,45000,Sales,Austin
+David,40,60000,Finance,Austin
+Ian,42,45000,Engineering,Chicago
+David,52,not available,HR,Boston
+Alice,58,not available,Finance,Chicago
+Grace,47,50000,Sales,Chicago
+Grace,34,45000,Sales,Boston
+David,37,nan,HR,New York
+Charlie,42,50000,HR,Chicago
+Hannah,39,45000,Finance,Chicago
+Eva,30,45000,Marketing,Austin
+Jack,36,50000,HR,Boston
+Grace,53,not available,Marketing,San Francisco
+David,29,45000,Engineering,New York
+David,58,not available,Sales,New York
+Hannah,36,50000,Marketing,Boston
+Hannah,29,not available,Sales,Austin
+Bob,26,60000,Marketing,Austin
+Bob,24,nan,Engineering,Boston
+Charlie,45,45000,HR,Austin
+Charlie,31,nan,Engineering,New York
+Alice,48,not available,HR,New York
+Charlie,36,45000,HR,San Francisco
+Frank,64,not available,Sales,Boston
+Hannah,33,60000,Engineering,Chicago
+Jack,22,50000,Marketing,Chicago
+Frank,52,45000,Engineering,San Francisco
+Eva,29,60000,Sales,San Francisco
+David,42,60000,HR,Austin
+Charlie,38,45000,Sales,San Francisco
+David,53,not available,Finance,San Francisco
+Grace,40,60000,Finance,Chicago
+Alice,33,nan,Marketing,Austin
+Grace,56,60000,Sales,San Francisco
+Alice,62,not available,Marketing,San Francisco
+Bob,59,not available,Marketing,Austin
+David,56,nan,Finance,Boston
+Alice,31,60000,Marketing,Austin
+Ian,48,not available,Finance,Chicago
+Frank,22,45000,HR,Boston
+Alice,52,50000,Sales,New York
+Alice,40,50000,Marketing,Austin
+Frank,46,50000,Finance,Chicago
+David,60,60000,Engineering,Boston
+David,28,nan,Marketing,Austin
+Frank,35,not available,HR,San Francisco
+Grace,64,45000,HR,Austin
+Ian,29,45000,Engineering,New York
+Jack,26,60000,Finance,Austin
+Eva,27,50000,Marketing,Boston
+Ian,61,60000,Finance,Boston
+David,34,nan,HR,Austin
+Jack,55,nan,Finance,Boston
+Bob,24,not available,HR,San Francisco
+Charlie,63,not available,Finance,Austin
+Alice,30,nan,Engineering,San Francisco
+Frank,57,nan,Sales,San Francisco
+Frank,59,nan,Engineering,Chicago
+Alice,26,60000,Engineering,Austin
+Charlie,44,nan,Sales,Boston
+Eva,19,45000,Sales,San Francisco
+Charlie,22,50000,Marketing,Chicago
+Jack,46,nan,Marketing,Austin
+Charlie,54,50000,Engineering,Austin
+Jack,55,60000,Engineering,New York
+Charlie,36,50000,HR,New York
+Eva,25,60000,HR,San Francisco
+Eva,62,45000,Marketing,New York
+David,18,60000,Marketing,San Francisco
+Alice,39,60000,HR,Boston
+Eva,34,not available,HR,San Francisco
+Jack,24,nan,Finance,New York
+Eva,42,nan,Finance,Boston
+David,62,45000,HR,New York
+Frank,21,45000,Finance,San Francisco
+Jack,53,nan,Sales,Chicago
+David,23,not available,Marketing,Austin
+Grace,48,nan,Marketing,New York
+Grace,36,not available,HR,San Francisco
+Bob,61,45000,Engineering,Boston
+Charlie,56,50000,HR,New York
+Alice,44,45000,Finance,New York
+Hannah,27,45000,Engineering,Austin
+Ian,43,60000,Finance,San Francisco
+David,36,60000,Sales,Chicago
+Frank,56,60000,Finance,Boston
+Ian,20,60000,Sales,San Francisco
+Frank,62,not available,Sales,Boston
+Ian,30,nan,Finance,New York
+David,45,50000,Finance,Austin
+Hannah,37,45000,Sales,Austin
+Ian,45,not available,Engineering,Chicago
+David,25,50000,Sales,Austin
+Eva,58,not available,Marketing,New York
+Hannah,56,not available,Sales,Chicago
+Jack,18,45000,Engineering,San Francisco
+Frank,20,nan,Marketing,Austin
+Grace,30,60000,HR,Chicago
+Charlie,45,nan,HR,New York
+Grace,42,45000,Engineering,Boston
+Hannah,50,45000,Sales,Boston
+Jack,55,45000,Finance,New York
+Frank,23,50000,Engineering,New York
+Jack,61,nan,Marketing,Boston
+Ian,62,nan,Marketing,Chicago
+Frank,49,not available,HR,Boston
+Ian,62,not available,Marketing,New York
+David,64,not available,Engineering,Austin
+Hannah,38,45000,Marketing,San Francisco
+David,33,nan,Engineering,Austin
+Bob,38,45000,Finance,Austin
+Jack,28,50000,HR,New York
+Ian,54,not available,Marketing,Boston
+Eva,53,45000,Engineering,Chicago
+David,52,45000,Sales,Austin
+Bob,36,50000,HR,Boston
+Alice,37,60000,Finance,Chicago
+Grace,35,nan,Engineering,Austin
+Frank,64,60000,Finance,Chicago
+Bob,58,not available,Finance,Boston
+Hannah,31,45000,Marketing,San Francisco
+David,32,50000,Marketing,Boston
+Hannah,48,50000,Engineering,New York
+Grace,18,nan,Sales,Chicago
+Eva,20,60000,Engineering,San Francisco
+Jack,33,nan,Sales,Chicago
+Jack,40,45000,Finance,Chicago
+Hannah,28,nan,HR,Austin
+Ian,29,50000,Engineering,New York
+Eva,27,50000,Engineering,Chicago
+Jack,49,not available,Sales,Boston
+Eva,33,not available,Finance,Boston
+Bob,25,45000,Finance,Austin
+Eva,55,60000,Sales,New York
+Charlie,29,nan,Finance,New York
+Grace,41,45000,Marketing,Boston
+Jack,45,not available,HR,San Francisco
+Eva,25,nan,Engineering,Austin
+Hannah,45,not available,HR,Austin
+Alice,53,nan,Engineering,Boston
+Charlie,43,60000,Marketing,Boston
+Charlie,25,45000,Finance,San Francisco
+Ian,45,nan,Sales,San Francisco
+Eva,45,50000,Marketing,New York
+Ian,54,50000,HR,Austin
+Ian,58,nan,Sales,Austin
+Alice,53,nan,Finance,Boston
+Bob,44,nan,Marketing,New York
+Eva,34,50000,Sales,Austin
+David,26,50000,Marketing,New York
+Jack,50,nan,Marketing,New York
+Ian,37,not available,Finance,Boston
+Grace,30,not available,Engineering,New York
+Frank,45,60000,Sales,San Francisco
+Grace,46,45000,Finance,San Francisco
+Alice,30,not available,Marketing,Chicago
+Alice,63,50000,Finance,Boston
+Hannah,52,not available,Engineering,Chicago
+Bob,23,60000,Sales,San Francisco
+Jack,35,60000,Engineering,Chicago
+Ian,22,45000,HR,Boston
+Grace,64,not available,Sales,Boston
+Frank,42,50000,Engineering,New York
+Alice,19,50000,Marketing,Austin
+Alice,27,nan,Sales,New York
+Bob,47,50000,Sales,Boston
+Frank,62,45000,Finance,San Francisco
+Frank,22,45000,Marketing,San Francisco
+Bob,50,50000,HR,New York
+Alice,18,50000,Engineering,Boston
+Jack,35,nan,Finance,San Francisco
+Eva,49,50000,Engineering,Boston
+Eva,64,nan,HR,San Francisco
+Bob,28,nan,HR,Boston
+Frank,38,50000,Sales,Chicago
+Ian,43,60000,HR,Boston
+Bob,42,60000,Engineering,Boston
+Jack,39,nan,Marketing,New York
+Bob,44,50000,Marketing,Chicago
+Charlie,30,60000,Sales,Austin
+Grace,50,50000,Engineering,New York
+Frank,51,50000,Engineering,Austin
+Hannah,58,50000,HR,San Francisco
+Hannah,52,not available,Engineering,Austin
+Frank,18,50000,Finance,Boston
+Jack,38,not available,HR,Austin
+Charlie,23,nan,Finance,New York
+Charlie,45,60000,Sales,New York
+Alice,34,60000,Marketing,Austin
+Grace,22,60000,Sales,New York
+Eva,48,60000,Marketing,New York
+David,22,60000,Sales,Austin
+Jack,55,60000,Engineering,Chicago
+David,20,60000,Finance,Chicago
+David,40,nan,Marketing,San Francisco
+Frank,54,50000,HR,New York
+Hannah,54,45000,Finance,Austin
+Hannah,27,not available,HR,New York
+Eva,27,45000,Finance,Boston
+Frank,36,45000,Finance,New York
+David,34,50000,Sales,New York
+Ian,38,50000,Marketing,Chicago
+Hannah,31,50000,Marketing,Austin
+Jack,26,60000,Finance,New York
+Jack,63,nan,Engineering,Chicago
+Alice,18,60000,Engineering,San Francisco
+Bob,62,nan,HR,Chicago
+Ian,30,nan,HR,Chicago
+Hannah,21,45000,Sales,Chicago
+Charlie,18,45000,Finance,New York
+Hannah,57,nan,HR,New York
+Alice,49,nan,HR,San Francisco
+Jack,51,60000,Finance,Boston
+David,45,60000,Sales,Boston
+Charlie,48,45000,HR,Boston
+Frank,25,50000,Sales,San Francisco
+Grace,56,nan,Marketing,Boston
+David,43,60000,Sales,Boston
+Grace,51,45000,Engineering,Chicago
+Ian,20,60000,Engineering,New York
+Bob,29,nan,Sales,New York
+Charlie,18,nan,Engineering,Chicago
+Eva,61,not available,Marketing,Chicago
+Charlie,22,50000,Finance,Chicago
+Hannah,47,not available,Engineering,New York
+Jack,47,45000,Engineering,Boston
+Hannah,34,60000,Sales,Chicago
+Hannah,64,45000,Marketing,San Francisco
+Ian,40,nan,Finance,Chicago
+David,32,not available,Sales,Austin
+Eva,54,not available,Sales,Chicago
+Eva,38,not available,Marketing,New York
+Hannah,31,45000,Finance,Chicago
+Grace,19,nan,Marketing,Austin
+Ian,28,60000,Finance,San Francisco
+Hannah,56,60000,Marketing,Boston
+Bob,55,45000,Sales,Chicago
+Jack,51,not available,Sales,Austin
+David,55,50000,HR,Austin
+Frank,51,45000,Engineering,San Francisco
+Bob,35,45000,Marketing,New York
+Grace,47,nan,HR,Chicago
+Charlie,32,60000,Engineering,Austin
+Charlie,44,45000,Marketing,San Francisco
+Bob,51,45000,Finance,Boston
+Hannah,55,not available,Engineering,Austin
+Frank,50,not available,Sales,San Francisco
+Alice,41,50000,HR,New York
+Alice,32,nan,Engineering,New York
+Grace,47,50000,Engineering,Austin
+Hannah,59,not available,Sales,Austin
+Eva,34,60000,Marketing,Chicago
+Eva,22,not available,Finance,San Francisco
+David,46,nan,Sales,Austin
+Frank,21,not available,Finance,Chicago
+Frank,27,nan,Marketing,Chicago
+Charlie,34,nan,Engineering,Austin
+Ian,27,nan,Finance,New York
+Grace,34,nan,HR,San Francisco
+Alice,37,nan,HR,San Francisco
+Grace,41,60000,Sales,New York
+Eva,22,50000,Marketing,Austin
+Eva,51,45000,Sales,San Francisco
+Bob,23,50000,Sales,Austin
+David,19,nan,Sales,Austin
+Frank,30,60000,HR,Chicago
+Jack,60,not available,HR,New York
+Grace,60,60000,Sales,Austin
+Eva,28,nan,HR,Boston
+Ian,64,60000,Marketing,New York
+Charlie,40,60000,Sales,San Francisco
+Alice,33,nan,HR,Chicago
+David,48,60000,Finance,San Francisco
+Ian,28,45000,Sales,San Francisco
+David,33,45000,Sales,New York
+Bob,25,60000,Marketing,San Francisco
+Jack,21,not available,Engineering,Austin
+Eva,57,nan,Engineering,San Francisco
+Charlie,21,45000,Marketing,Chicago
+Ian,42,not available,Marketing,Chicago
+David,20,60000,Marketing,Boston
+Frank,49,not available,Engineering,Chicago
+Bob,20,50000,Marketing,San Francisco
+Frank,44,45000,HR,Chicago
+Charlie,46,60000,Sales,New York
+Ian,49,nan,Sales,Chicago
+Bob,36,60000,Finance,Austin
+Ian,38,nan,Finance,New York
+Eva,22,60000,Sales,Boston
+Hannah,35,not available,HR,Austin
+Bob,45,not available,Engineering,San Francisco
+Frank,59,not available,Engineering,San Francisco
+Charlie,39,50000,HR,San Francisco
+Jack,38,nan,Engineering,Austin
+Eva,23,not available,Marketing,Austin
+Hannah,18,50000,Sales,Austin
+Jack,22,nan,Sales,New York
+Alice,58,60000,HR,New York
+Eva,29,50000,Engineering,San Francisco
+Charlie,43,45000,Finance,Chicago
+David,63,50000,Finance,San Francisco
+Bob,51,50000,Engineering,Boston
+Ian,31,nan,Finance,New York
+Charlie,43,60000,HR,Austin
+Bob,62,45000,HR,New York
+Jack,44,not available,Engineering,Austin
+Ian,26,not available,Finance,Boston
+Grace,43,50000,HR,Boston
+Frank,64,nan,HR,New York
+Alice,39,nan,Marketing,Austin
+Eva,64,not available,Marketing,Boston
+Charlie,47,45000,HR,San Francisco
+Alice,60,60000,Engineering,San Francisco
+David,34,45000,Sales,Austin
+Bob,43,60000,Sales,New York
+Bob,53,not available,HR,Boston
+Charlie,18,60000,HR,New York
+Hannah,25,nan,HR,San Francisco
+Hannah,52,50000,Engineering,Boston
+Grace,32,50000,Marketing,New York
+Frank,64,not available,HR,Chicago
+Ian,39,nan,HR,Austin
+David,31,45000,Finance,Austin
+Alice,43,nan,Engineering,Chicago
+Hannah,45,50000,HR,San Francisco
+Grace,40,50000,Finance,Boston
+Grace,31,nan,Sales,Austin
+Charlie,41,nan,HR,Chicago
+David,19,50000,HR,Chicago
+Jack,62,45000,Finance,San Francisco
+Ian,43,not available,Engineering,San Francisco
+Frank,31,not available,HR,New York
+Eva,24,nan,Sales,Austin
+Charlie,20,not available,HR,New York
+Ian,64,50000,Sales,Chicago
+Eva,40,50000,Marketing,Boston
+Eva,63,nan,Marketing,Boston
+David,60,nan,Sales,San Francisco
+David,64,nan,Engineering,Boston
+Alice,62,45000,HR,Boston
+Grace,35,not available,HR,Boston
+Ian,55,nan,Marketing,Chicago
+Charlie,52,60000,Sales,Boston
+Bob,32,60000,HR,Boston
+Charlie,42,50000,HR,Boston
+Alice,54,not available,Engineering,New York
+Frank,45,nan,Finance,Chicago
+Grace,27,60000,Marketing,San Francisco
+Bob,56,not available,Marketing,New York
+Hannah,34,50000,Finance,Austin
+Frank,56,45000,HR,Chicago
+David,39,not available,Engineering,Chicago
+Eva,43,not available,Engineering,Austin
+Hannah,61,45000,Marketing,Austin
+Charlie,42,not available,Engineering,Austin
+Charlie,34,50000,Finance,San Francisco
+David,30,50000,HR,Boston
+Alice,37,45000,Finance,Chicago
+Ian,42,nan,Sales,Boston
+Hannah,21,60000,Marketing,Boston
+Hannah,27,nan,Engineering,Austin
+Jack,20,not available,Sales,San Francisco
+Frank,58,60000,Engineering,New York
+Grace,62,45000,HR,San Francisco
+Frank,35,45000,HR,Boston
+Ian,64,60000,HR,San Francisco
+Charlie,53,50000,Engineering,Austin
+Charlie,64,60000,Sales,New York
+Charlie,39,not available,HR,Austin
+Jack,51,50000,Sales,New York
+Charlie,64,45000,Engineering,Boston
+Ian,25,60000,Sales,New York
+David,57,nan,Engineering,New York
+Grace,61,nan,Engineering,New York
+Ian,36,not available,Marketing,San Francisco
+Grace,59,nan,Engineering,San Francisco
+Ian,58,60000,Engineering,Boston
+Charlie,54,60000,Finance,New York
+David,23,nan,HR,Chicago
+Hannah,43,60000,Marketing,Boston
+Frank,51,not available,Marketing,New York
+Eva,62,50000,Marketing,New York
+David,23,not available,Finance,San Francisco
+Hannah,54,not available,Engineering,Boston
+Alice,50,60000,HR,New York
+Ian,39,50000,Sales,New York
+Alice,38,60000,Engineering,Boston
+Hannah,23,45000,Finance,Chicago
+David,23,60000,Engineering,Boston
+Ian,21,60000,Engineering,Boston
+Eva,47,60000,Finance,Chicago
+Charlie,28,50000,Marketing,Boston
+Ian,47,60000,Marketing,New York
+Ian,48,50000,HR,Boston
+David,41,nan,HR,Chicago
+David,26,45000,Marketing,Austin
+Hannah,20,50000,Sales,Boston
+Bob,48,nan,Engineering,San Francisco
+Ian,57,50000,Sales,New York
+Frank,54,50000,Engineering,New York
+Ian,53,45000,Marketing,San Francisco
+Hannah,41,not available,HR,San Francisco
+Grace,48,not available,HR,Boston
+Alice,23,50000,Sales,San Francisco
+Charlie,19,60000,HR,Austin
+Bob,37,nan,Marketing,Chicago
+Eva,45,60000,Sales,San Francisco
+Eva,28,60000,Engineering,San Francisco
+Eva,21,50000,HR,Austin
+David,32,50000,Finance,New York
+Eva,23,50000,HR,New York
+Charlie,47,50000,Engineering,Boston
+Alice,55,not available,Sales,Austin
+Eva,19,50000,Engineering,Chicago
+Ian,32,not available,Finance,Chicago
+Ian,28,not available,Marketing,Austin
+David,25,50000,HR,Chicago
+Charlie,43,45000,Sales,New York
+Alice,62,nan,Marketing,Chicago
+Bob,61,60000,Engineering,Chicago
+Hannah,22,not available,Sales,Austin
+Alice,23,nan,Marketing,Austin
+Hannah,43,45000,Sales,Chicago
+Grace,21,60000,Finance,San Francisco
+Hannah,36,60000,Finance,Austin
+Frank,37,not available,HR,Boston
+Ian,50,50000,HR,Boston
+Charlie,37,45000,Finance,New York
+Jack,29,not available,Sales,Chicago
+David,64,45000,Finance,San Francisco
+Frank,18,50000,HR,New York
+Hannah,43,50000,Finance,Chicago
+Eva,31,not available,Finance,Austin
+Charlie,55,50000,Sales,Boston
+Frank,54,nan,Marketing,San Francisco
+David,28,60000,HR,Boston
+Ian,53,not available,Sales,Austin
+Charlie,30,45000,Finance,Chicago
+David,60,nan,Finance,Austin
+Grace,20,not available,Marketing,Austin
+Grace,50,50000,HR,Boston
+David,23,50000,HR,San Francisco
+Frank,27,50000,Engineering,Austin
+Charlie,22,50000,HR,Boston
+Frank,40,45000,Marketing,San Francisco
+Bob,27,nan,Engineering,Chicago
+Hannah,61,60000,Engineering,Chicago
+Bob,19,45000,Finance,New York
